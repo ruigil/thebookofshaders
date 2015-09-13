@@ -36,8 +36,6 @@ O que este livro não cobre:
 
 Não muito! Se tens um browser moderno que pode executar WebGL (como o Chrome, Firefox ou Safari) e uma ligação internet, clica no botão "Próximo" capítulo  no fim desta página para começar.
 
-Not much! If you have a modern browser that can do WebGL (like Chrome, Firefox or Safari) and a internet connection, click the “Next” Chapter button at the end of this page to get started.
-
 Em alternativa, baseado no que tens, ou no que precisas deste livro podes:
 
 - [Criar uma versão off-line deste livro](http://thebookofshaders.com/appendix/)
